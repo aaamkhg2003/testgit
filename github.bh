@@ -1,0 +1,25 @@
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+Unversionierte Dateien:
+  (benutzen Sie "git add <Datei>...", um die Änderungen zum Commit vorzumerken)
+	Test
+	github.bh
+	hallo
+	test.txt
+
+nichts zum Commit vorgemerkt, aber es gibt unversionierte Dateien
+(benutzen Sie "git add" zum Versionieren)
+Auf Branch main
+Ihr Branch ist auf demselben Stand wie 'origin/main'.
+
+Zum Commit vorgemerkte Änderungen:
+  (benutzen Sie "git restore --staged <Datei>..." zum Entfernen aus der Staging-Area)
+	neue Datei:     test.txt
+
+Unversionierte Dateien:
+  (benutzen Sie "git add <Datei>...", um die Änderungen zum Commit vorzumerken)
+	Test
+	github.bh
+	hallo
+
